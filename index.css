@@ -1,0 +1,205 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:white;
+}
+
+h1{
+    color:white;
+    font-size:50px;
+    font-family: merienda;
+    text-align: center;
+    padding-top: 30px;
+    text-decoration:wavy;
+    text-rendering:optimizeLegibility;  
+}
+/* bienvenidos.. */
+
+.section{
+    background: linear-gradient(30deg, rgba(17, 242, 227, 0.364) 35%, rgba(255, 0, 238, 0.551) 100%),url(./Imágenes/naassom-azevedo-Q_Sei-TqSlc-unsplash.jpg);
+
+    width:300;
+    height: 700px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;  
+}
+/* imagen de inicio */
+
+.container2{
+    display: flex;
+    justify-content: space-between;
+    color:blue;
+    margin: 0px 100px;
+    font-family: merienda;
+    font-size:15px ;
+}
+/* son los links */
+
+h2{
+    width: 70%;
+    margin: auto;
+
+    color: black;
+    font-size:30px;
+    font-family: merienda; 
+  
+    box-shadow: 0 0 20px grey;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgba(250, 235, 215, 0.711);
+}
+/* todos los subtitulos */
+
+.Inglés{
+    background: url(Imágenes/maarten-van-den-heuvel-gZXx8lKAb7Y-unsplash\ \(1\).jpg);
+    width:300;
+    height: 250px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    object-fit: cover;
+}
+
+.Portugués{
+    background: url(Imágenes/agustin-diaz-gargiulo-7F65HDP0-E0-unsplash.jpg);
+   width: 300;
+   height: 250px;
+   background-size:cover;
+   background-repeat: no-repeat;
+   background-position:bottom;
+   object-fit: cover;
+}
+.maseconomico{
+    background-color: rgba(250, 235, 215, 0.711);
+    width: 400px;
+    text-align: left;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px grey;
+    margin-left: 40px;
+    margin-right: 60px;
+}
+
+.flexibilidad{
+    background-color: rgba(250, 235, 215, 0.711);
+    width: 400px;
+    text-align: left; 
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px grey;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+.facilidaddeacceso{
+    background-color: rgba(250, 235, 215, 0.711);
+    width: 400px;
+    text-align: left; 
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px grey;
+    margin-left: 40px;
+    margin-right: 60px;
+}
+
+.sencillodecompaginar{
+    background-color: rgba(250, 235, 215, 0.711);
+    width: 400px;
+    text-align: left; 
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px grey;
+    margin-left: 40px;
+    margin-right: 60px;
+}
+
+.container{
+    display: flex;
+    
+}
+
+
+.container4{
+    display: flex;
+   
+}
+
+
+h3{
+    width: 70%;
+    margin: auto;
+
+    color: black;
+    font-size:30px;
+    font-family: merienda; 
+    background:white;
+    box-shadow: 0 0 20px grey;
+    text-align: center;
+    border-radius: 10px;
+
+    background-color: rgba(250, 235, 215, 0.711);
+}
+/* Es "te ofrecemos" */
+
+ul{
+    color: black;
+    font-size:20px;
+    font-family: merienda;
+    width: 100%;
+    text-align: left;
+    margin-left: 100px;
+}
+
+li{
+    color: black;
+    font-size:20px;
+    font-family: merienda;
+    width: 100%;
+    margin: left;
+    margin-left: 40px;
+}
+/* Son las viñetas. Poner viñetas bonitas */
+
+p{
+    color: black;
+    font-size:20px;
+    font-family: merienda;
+    margin: 40px; 
+}
+
+img{
+    margin: auto;
+    width:300px;
+    height: 300px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    
+    border-radius: 100px 0px 100px 0px;
+}
+
+.CONTAINER3{
+  
+    color: black;
+    font-size:30px;
+    font-family: merienda;
+    text-align: left;
+    background-color: rgba(250, 235, 215, 0.711);
+    box-shadow: 0 0 20px grey;
+    width:100%;
+    margin: auto;
+}
+
+h4{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(250, 235, 215, 0.711);
+    
+}
+
